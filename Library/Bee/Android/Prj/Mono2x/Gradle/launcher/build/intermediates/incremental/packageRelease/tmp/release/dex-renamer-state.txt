@@ -1,0 +1,4 @@
+#Sun Sep 18 21:51:53 EET 2022
+base.0=C\:\\Users\\solma\\Desktop\\unitygame\\Library\\Bee\\Android\\Prj\\Mono2x\\Gradle\\launcher\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
